@@ -13,14 +13,15 @@
     "vue": "^2.5.16"
   },
   "devDependencies": {
-    "@types/jest": "^23.3.10",
+    "@types/jest": "^24.0.18",
     "@vue/cli-plugin-typescript": "^3.0.0-rc.9",
     "@vue/cli-service": "^3.0.0-rc.9",
-    "@vue/test-utils": "^1.0.0-beta.22",
-    "jest": "^23.4.2",
-    "ts-jest": "^23.0.1",
-    "typescript": "^2.9.0",
-    "vue-jest": "^2.6.0",
+    "@vue/test-utils": "^1.0.0-beta.29",
+    "babel-core": "7.0.0-bridge.0",
+    "jest": "^24.9.0",
+    "ts-jest": "^24.0.2",
+    "typescript": "^3.6.2",
+    "vue-jest": "^3.0.4",
     "vue-template-compiler": "^2.5.16"
   },
   "postcss": {
